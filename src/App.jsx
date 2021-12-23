@@ -74,6 +74,9 @@ const App = () => {
           completedTodos={completedTodos}
           setCompletedTodos={setCompletedTodos}
         />
+        <a href="https://github.com/naveen9740/job-assign-client">
+          FrontEnd Github Link
+        </a>
         <a href="https://github.com/naveen9740/job-assign-server">
           Backend Github Link
         </a>
